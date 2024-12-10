@@ -328,8 +328,8 @@ def check_timeout():
 async def main():
     global packet_loss_list, program_finished, duplicate_packets, program_start_time,received_count
     
-    ssid = "CDSL-A910-11n"
-    password = "11n-ky56$HDxgp"
+    ssid = "SSID"
+    password = "PASSWORD"
 
 
     if connect_wifi(ssid, password):
