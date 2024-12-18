@@ -42,7 +42,7 @@ Wi-Fi接続に必要なssidとpasswordを設定する． マルチキャスト�
 結果の一部を抜粋する．
 client.pyの結果は以下の通りである．
 
-![image](https://github.com/user-attachments/assets/f54c4431-886c-4b74-840b-fd34f65bf7d9)
+![image]("C:\Users\c0a22\OneDrive\ドキュメント\CDSL\sosei\395082829-f54c4431-886c-4b74-840b-fd34f65bf7d9.png")
 
 
 
@@ -50,4 +50,4 @@ client.pyの結果は以下の通りである．
 結果の一部を抜粋する．
 server.pyは以下の通りである．
 
-![image](https://github.com/user-attachments/assets/b209280a-1208-43f3-9090-ef3c0b1704fc)
+![image]("C:\Users\c0a22\OneDrive\ドキュメント\CDSL\sosei\395082951-b209280a-1208-43f3-9090-ef3c0b1704fc.png")
