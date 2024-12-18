@@ -50,4 +50,4 @@ client.pyの結果は以下の通りである．
 結果の一部を抜粋する．
 server.pyは以下の通りである．
 
-![image]("C:\Users\c0a22\OneDrive\ドキュメント\CDSL\sosei\395082951-b209280a-1208-43f3-9090-ef3c0b1704fc.png")
+![image](https://github.com/user-attachments/assets/1d56cdfe-806b-4e83-9527-5512837c6272)
