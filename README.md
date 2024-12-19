@@ -47,7 +47,7 @@ client.pyの結果は以下の通りである．
 
 下の図は終わった際の結果
 
-![image](https://github.com/user-attachments/assets/10355252-e066-4800-90a9-0df218ffe167)
+![image](https://github.com/user-attachments/assets/b2934e29-fcd7-4fb3-97f9-0882b634bdba)
 
 
 
