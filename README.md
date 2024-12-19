@@ -42,7 +42,7 @@ Wi-Fi接続に必要なssidとpasswordを設定する． マルチキャスト�
 結果の一部を抜粋する．
 client.pyの結果は以下の通りである．
 
-![image](https://github.com/user-attachments/assets/b2934e29-fcd7-4fb3-97f9-0882b634bdba)
+![image](https://github.com/user-attachments/assets/84d0439f-a873-4f1d-b78a-83ff21496ce8)
 
 
 下の図は終わった際の結果
