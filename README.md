@@ -61,7 +61,7 @@ server.pyは以下の通りである．
 ![image](https://github.com/user-attachments/assets/9f8d3ac5-d9fa-4366-bcdc-2e445daaa1b8)
 
                                                                       ・
-・
-・
+                                                                      ・
+                                                                      ・
 
 ![image](https://github.com/user-attachments/assets/abc68209-c6d9-40bf-9ec2-22591056b120)
