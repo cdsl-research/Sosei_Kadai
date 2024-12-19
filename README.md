@@ -46,7 +46,8 @@ client.pyの結果は以下の通りである．
 
 下の図は終わった際の結果
 
-![image](https://github.com/user-attachments/assets/4ff2c7e4-5fad-4a70-a382-1573e0f1f870)
+![image](https://github.com/user-attachments/assets/10355252-e066-4800-90a9-0df218ffe167)
+
 
 
 
@@ -59,4 +60,4 @@ server.pyは以下の通りである．
 
 下の図は終わった際の結果
 
-![image](https://github.com/user-attachments/assets/da1db8bb-b072-4d05-91bb-f937dfa58b8c)
+![image](https://github.com/user-attachments/assets/abc68209-c6d9-40bf-9ec2-22591056b120)
