@@ -30,6 +30,10 @@
 クライアントはESP32を使い，MicroPythonのファームウェアはv1.24.0を使用している．プログラムの記述にはThonnyを用いた．
 まず，クライアントを起動し，Wi-Fi接続を行う．
 
+![スクリーンショット 2024-12-19 162917](https://github.com/user-attachments/assets/105526c3-ceed-48f0-a5e1-0f917f2374f7)
+
+![esp32画像](https://github.com/user-attachments/assets/a8c6abe7-ec61-4ce2-b8d3-9c96b537af51)
+
 
 サーバはESXiに仮想環境を建て，そこにserver.pyとsendingFile_100kB.txtを置いて実行している．仮想環境でPythonファイルを実行する時は，下記の方法からpowershell等で実行する．
 
